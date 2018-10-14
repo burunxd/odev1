@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
 }
@@ -44,7 +45,7 @@ section {
     margin-bottom: 0;
     margin-top: 0;
     padding: 5px;
-    background-color: #FFFF00;
+    background-color: rgba(255, 132, 109, 0.67);
 }
 
 #beef {
@@ -56,6 +57,7 @@ section {
     margin-bottom: 0;
     margin-top: 0;
     padding: 5px;
+    color: white;
     background-color: #FF1439;
 }
 
@@ -67,8 +69,7 @@ section {
     margin-left: 70%;
     margin-bottom: 0;
     margin-top: 0;
-    background-color: #6495ED;
-    color: white;
+    background-color: #ffe14e;
     padding: 5px;
 }
 
